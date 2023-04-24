@@ -1,2 +1,7 @@
 # django
-**SIMPLE HOSPITAL MANAGEMENT**
+**SIMPLE HOSPITAL MANAGEMENT SYSTEM**
+
+#Sample screen shorts
+
+#Home page
+(screen_shorts/home_page.png)
