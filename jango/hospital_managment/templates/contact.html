@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+<head>
+  <title>{% block title %}{% endblock %}</title>
+
+</head>
+{% block content %}
+{% load static %}
+
+<link rel="stylesheet" href="{% static '/css/contact.css'%}" />
+<div class="head"><h1 class="text-center">Contact Us</h1></div>
+<hr>
+<div class="container w-50 text-center my-5">
+
+<form action="" method="post">
+
+      {% csrf_token %}
+    {{form.as_p}}
+    
+    <button class=" btn btn-primary my-5"  type="submit">submit </button>
+</form>
+</div>
+
+{% endblock %}
