@@ -1,7 +1,7 @@
 
 **SIMPLE HOSPITAL MANAGEMENT SYSTEM**
   This a simple hospital management project. in this project created six pages.
-  -`The home page`- is created for just hospital advertisement and events announcement.
+  1.-`The home page`- is created for just hospital advertisement and events announcement.
   2)The about page: only for history of hospital and new achivements.
   3)The booking page: patients can make appoiments it can store in database.
   4)The doctors page: the admin can add doctors and remove doctors it can view in doctors page.
