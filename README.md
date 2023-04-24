@@ -8,7 +8,7 @@
   5)The departments page: the admin can add departments and remove doctors it can view in departments page.
   6)The contact us page: the users can contact with administator and submit their opinions.
 
-#Sample screen shorts
+##Sample screen shorts
 **Home page**
 ![home page](screen_shorts/home_page.png)
 
