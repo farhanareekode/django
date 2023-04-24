@@ -14,7 +14,7 @@
 **About page**
 ![about page](screen_shorts/about_page.png)
 **Booking page**
-![booking page](screen_shorts/booking_page.png)
+![booking page](screen_shorts/appoiment_page.png)
 **Doctors page**
 ![doctors page](screen_shorts/doctors_page.png)
 **Departments page**
