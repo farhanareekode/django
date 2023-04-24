@@ -1,2 +1,2 @@
 # django
-begin project for collage
+**SIMPLE HOSPITAL MANAGEMENT**
